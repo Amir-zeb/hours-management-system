@@ -14,7 +14,7 @@ The **Hours Management System** is a web application designed to help users trac
 
 ## Demo
 
-A live demo of the application is hosted on Firebase. Check it out [here](https://your-firebase-app-url).
+A live demo of the application is hosted on Firebase. Check it out [here](https://hours-management-ed8a2.web.app/).
 
 ## Screenshots
 
@@ -44,7 +44,7 @@ To get started with the Hours Management System on your local machine, follow th
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/hours-management-system.git
+   git clone https://github.com/amir-zeb/hours-management-system.git
    cd hours-management-system
 
 2. **Install dependencies**
